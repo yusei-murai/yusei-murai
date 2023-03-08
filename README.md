@@ -1,4 +1,6 @@
-### Hi there 👋
+### 酒は男を磨く水よのぅ
+
+Python大好きです.
 
 <!--
 **yusei-murai/yusei-murai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
