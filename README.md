@@ -1,6 +1,8 @@
-### 酒は男を磨く水よのぅ〜
+### よろしくお願いします
 
-Python大好きです.
+大学で知能情報学を学びながら,個人開発をしています.
+Python,Dartを中心にやっています.
+
 
 <!--
 **yusei-murai/yusei-murai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
