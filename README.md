@@ -1,6 +1,6 @@
 ### Pirates use Flask, the Navy uses Django
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusei-murai)]
-
+##Skills
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,dart,django,docker,emacs,firebase,flask,flutter,gitlab,go,java,latex,js,ts,matlab,mysql,nginx,octave,py,redis&theme=light)](https://skillicons.dev)
 
 <!--
 **yusei-murai/yusei-murai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
