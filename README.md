@@ -1,5 +1,5 @@
 ### Pirates use Flask, the Navy uses Django
-##Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,dart,django,docker,emacs,firebase,flask,flutter,gitlab,go,java,latex,js,ts,matlab,mysql,nginx,octave,py,redis&theme=light)](https://skillicons.dev)
 
 <!--
